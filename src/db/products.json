@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name":"Unbranded Metal Cheese",
+            "price": 500,
+            "brand": "Adidas",
+            "image": "http://placeimg.com/640/480/city",
+            "size": ["S","M","L"],
+            "idealFor": ["Men","Women","Boys","Girls"]
+        },
+        {
+            "id": 2,
+            "name":"Intelligent Frozen Cheese",
+            "price": 300,
+            "brand": "Nike",
+            "image": "http://placeimg.com/640/480/nightlife",
+            "size": ["S","M","L","XL"],
+            "idealFor": ["Men","Women"]
+        },
+        {
+            "id": 3,
+            "name":"Refined Cotton Computer",
+            "price": 700,
+            "brand": "Puma",
+            "image": "http://placeimg.com/640/480/cats",
+            "size": ["S","M"],
+            "idealFor": ["Girls"]
+        },
+        {
+            "id": 4,
+            "name":"Fantastic Granite Cheese",
+            "price": 200,
+            "brand": "Adidas",
+            "image": "http://placeimg.com/640/480/sports",
+            "size": ["M","L","XL"],
+            "idealFor": ["Men"]
+        },
+        {
+            "id": 5,
+            "name":"Generic Metal Bike",
+            "price": 750,
+            "brand": "Nike",
+            "image": "http://placeimg.com/640/480/nature",
+            "size": ["S","M","L","XL"],
+            "idealFor": ["Women","Girls"]
+        },
+        {
+            "id": 6,
+            "name":"Small Granite Chicken",
+            "price": 800,
+            "brand": "Puma",
+            "image": "http://placeimg.com/640/480/business",
+            "size": ["L","XL"],
+            "idealFor": ["Boys"]
+        },
+        {
+            "id": 7,
+            "name":"Tasty Fresh Hat",
+            "price": 1500,
+            "brand": "Metro",
+            "image": "http://placeimg.com/640/480/abstract",
+            "size": ["S","M","L"],
+            "idealFor": ["Men","Women"]
+        }
+    ]
+}
